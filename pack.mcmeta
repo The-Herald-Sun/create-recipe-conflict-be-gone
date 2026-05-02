@@ -1,0 +1,27 @@
+{
+	"pack": {
+		"description": "Remove Problematice recipe conflicts",
+		"pack_format": 48
+	},
+	"filter": {
+		"block": [
+			{		
+				"namespace": "create",
+				"path": "recipe/milling/charcoal.json"
+			},
+			{		
+				"namespace": "create",
+				"path": "recipe/milling/coal.json"
+			},
+			{		
+				"namespace": "createbigcannons",
+				"path": "recipe/mixing/alloy_steel.json"
+			},
+			{		
+				"namespace": "createnuclear",
+				"path": "recipe/mixing/steel.json"
+			}
+		]
+	
+	}
+}
