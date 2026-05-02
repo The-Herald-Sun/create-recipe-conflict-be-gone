@@ -10,10 +10,6 @@
 				"path": "recipe/milling/charcoal.json"
 			},
 			{		
-				"namespace": "create",
-				"path": "recipe/milling/coal.json"
-			},
-			{		
 				"namespace": "createbigcannons",
 				"path": "recipe/mixing/alloy_steel.json"
 			},
